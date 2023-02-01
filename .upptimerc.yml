@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: /uptime
   baseUrl: /uptime
-  logoUrl: https://res.cloudinary.com/dehufwsks/image/upload/v1675249210/brand/2-circular-icon-black-white_ecifgy.png
+  logoUrl: https://res.cloudinary.com/dehufwsks/image/upload/v1675249631/brand/2-circular-icon-black-white_m7hraq.svg
   name: Status Monitor
   # introTitle: "**Upptime** open-source uptime monitor and status page, powered by GitHub."
   introMessage: This is the uptime status monitor for Intech Studio online services.
