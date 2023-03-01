@@ -4,19 +4,19 @@
     "url": "https://intech.studio",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 2982,
-    "timeWeek": 1249,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 865,
+    "timeDay": 2381,
+    "timeWeek": 1241,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hq.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/hq.intech.studio.ico",
     "slug": "api-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 582,
-    "timeWeek": 640,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 574,
+    "timeDay": 636,
+    "timeWeek": 652,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 9
     }
   },
   {
