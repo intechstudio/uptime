@@ -4,36 +4,40 @@
     "url": "https://intech.studio",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 439,
-    "timeWeek": 638,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "time": 856,
+    "timeDay": 2982,
+    "timeWeek": 1249,
+    "timeMonth": 856,
+    "timeYear": 856,
+    "dailyMinutesDown": {
+      "2023-03-01": 0
+    }
   },
   {
     "name": "API Health",
     "url": "https://hq.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/hq.intech.studio.ico",
     "slug": "api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 517,
-    "timeWeek": 639,
-    "timeMonth": 566,
-    "timeYear": 566,
-    "dailyMinutesDown": {}
+    "time": 569,
+    "timeDay": 582,
+    "timeWeek": 640,
+    "timeMonth": 569,
+    "timeYear": 569,
+    "dailyMinutesDown": {
+      "2023-03-01": 0
+    }
   },
   {
     "name": "Documentation",
