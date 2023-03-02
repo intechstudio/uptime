@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 865,
-    "timeDay": 2381,
-    "timeWeek": 1241,
-    "timeMonth": 865,
-    "timeYear": 865,
-    "dailyMinutesDown": {
-      "2023-03-01": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 858,
+    "timeDay": 2430,
+    "timeWeek": 1239,
+    "timeMonth": 874,
+    "timeYear": 858,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Health",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hq.intech.studio.ico",
     "slug": "api-health",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 574,
-    "timeDay": 636,
-    "timeWeek": 652,
-    "timeMonth": 574,
-    "timeYear": 574,
-    "dailyMinutesDown": {
-      "2023-03-01": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 571,
+    "timeDay": 619,
+    "timeWeek": 645,
+    "timeMonth": 556,
+    "timeYear": 571,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 390,
-    "timeWeek": 347,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 346,
+    "timeWeek": 351,
+    "timeMonth": 319,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   }
 ]
