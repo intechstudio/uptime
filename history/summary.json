@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 823,
-    "timeDay": 769,
-    "timeWeek": 668,
-    "timeMonth": 867,
-    "timeYear": 823,
-    "dailyMinutesDown": {
-      "2023-03-10": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 821,
+    "timeDay": 792,
+    "timeWeek": 681,
+    "timeMonth": 864,
+    "timeYear": 821,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Health",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 527,
-    "timeWeek": 550,
+    "time": 565,
+    "timeDay": 459,
+    "timeWeek": 529,
     "timeMonth": 576,
-    "timeYear": 567,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 305,
-    "timeWeek": 335,
-    "timeMonth": 330,
-    "timeYear": 327,
+    "time": 328,
+    "timeDay": 374,
+    "timeWeek": 334,
+    "timeMonth": 332,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]
