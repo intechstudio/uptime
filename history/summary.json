@@ -4,19 +4,19 @@
     "url": "https://intech.studio",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 849,
     "timeDay": 3119,
     "timeWeek": 1347,
     "timeMonth": 841,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-04-03": 5
+      "2023-04-03": 0
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "api-health",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 1070,
     "timeWeek": 653,
     "timeMonth": 546,
     "timeYear": 559,
-    "dailyMinutesDown": {
-      "2023-04-03": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
