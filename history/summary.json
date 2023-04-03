@@ -4,10 +4,10 @@
     "url": "https://intech.studio",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
@@ -15,16 +15,18 @@
     "timeWeek": 769,
     "timeMonth": 699,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 2
+    }
   },
   {
     "name": "API Health",
     "url": "https://hq.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/hq.intech.studio.ico",
     "slug": "api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 539,
     "timeMonth": 517,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "Documentation",
