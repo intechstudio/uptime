@@ -6,15 +6,15 @@
     "slug": "intech-studio",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 846,
-    "timeDay": 2290,
-    "timeWeek": 1304,
-    "timeMonth": 842,
-    "timeYear": 846,
+    "time": 841,
+    "timeDay": 480,
+    "timeWeek": 1293,
+    "timeMonth": 836,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2023-04-03": 57
     }
@@ -26,14 +26,14 @@
     "slug": "api-health",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 558,
-    "timeDay": 832,
-    "timeWeek": 599,
-    "timeMonth": 543,
+    "timeDay": 520,
+    "timeWeek": 590,
+    "timeMonth": 540,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2023-04-03": 35
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 426,
-    "timeWeek": 351,
-    "timeMonth": 334,
-    "timeYear": 330,
+    "time": 331,
+    "timeDay": 372,
+    "timeWeek": 352,
+    "timeMonth": 340,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   }
 ]
