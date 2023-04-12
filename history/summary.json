@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 833,
-    "timeDay": 0,
-    "timeWeek": 679,
-    "timeMonth": 851,
-    "timeYear": 833,
+    "time": 832,
+    "timeDay": 737,
+    "timeWeek": 721,
+    "timeMonth": 856,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2023-04-03": 57
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hq.intech.studio.ico",
     "slug": "api-health",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
-    "time": 558,
-    "timeDay": 0,
-    "timeWeek": 555,
-    "timeMonth": 549,
-    "timeYear": 558,
+    "uptimeYear": "99.97%",
+    "time": 561,
+    "timeDay": 770,
+    "timeWeek": 597,
+    "timeMonth": 559,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2023-04-03": 35
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 0,
-    "timeWeek": 332,
-    "timeMonth": 334,
-    "timeYear": 330,
+    "time": 328,
+    "timeDay": 194,
+    "timeWeek": 303,
+    "timeMonth": 329,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]
