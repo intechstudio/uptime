@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 841,
-    "timeDay": 808,
-    "timeWeek": 771,
-    "timeMonth": 733,
-    "timeYear": 841,
+    "uptimeYear": "99.97%",
+    "time": 839,
+    "timeDay": 572,
+    "timeWeek": 752,
+    "timeMonth": 724,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2023-04-03": 57
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 553,
-    "timeDay": 668,
-    "timeWeek": 560,
-    "timeMonth": 501,
-    "timeYear": 553,
+    "time": 554,
+    "timeDay": 608,
+    "timeWeek": 555,
+    "timeMonth": 505,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-04-17": 122,
       "2023-04-03": 35
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 170,
-    "timeWeek": 340,
-    "timeMonth": 341,
+    "timeDay": 417,
+    "timeWeek": 343,
+    "timeMonth": 346,
     "timeYear": 330,
     "dailyMinutesDown": {}
   }
