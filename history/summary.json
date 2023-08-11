@@ -48,17 +48,19 @@
     "url": "https://grid-documentation.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/grid-documentation.onrender.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 218,
-    "timeWeek": 242,
-    "timeMonth": 237,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "time": 301,
+    "timeDay": 137,
+    "timeWeek": 219,
+    "timeMonth": 231,
+    "timeYear": 301,
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   }
 ]
