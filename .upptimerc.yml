@@ -4,7 +4,8 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Intech Studio
-    url: https://intech.studio
+    url: https://intech.studio/api/health
+    method: GET
   - name: API Health
     url: https://hq.intech.studio/healthz
     method: GET
