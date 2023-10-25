@@ -4,7 +4,7 @@
     "url": "https://intech.studio/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 497,
     "timeYear": 739,
     "dailyMinutesDown": {
+      "2023-10-25": 0,
       "2023-09-19": 425,
       "2023-09-18": 228,
       "2023-09-17": 36,
