@@ -1,7 +1,7 @@
 url: https://hq.intech.studio/healthz
-status: down
-code: 502
-responseTime: 598
-lastUpdated: 2025-05-09T09:22:47.133Z
+status: up
+code: 200
+responseTime: 452
+lastUpdated: 2025-05-09T11:30:07.157Z
 startTime: 2023-02-01T10:57:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
