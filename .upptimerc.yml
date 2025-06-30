@@ -6,10 +6,10 @@ sites:
   - name: Intech Studio Website
     url: https://intech.studio/health
     method: GET
-  - name: Intech Studio Website
+  - name: Vendure
     url: https://vendure.intech.studio/health
     method: GET
-  - name: HQ-API Health
+  - name: HQ-API
     url: https://hq2.intech.studio/health
     method: GET
   - name: Documentation
