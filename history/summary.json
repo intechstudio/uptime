@@ -40,18 +40,20 @@
     "url": "https://hq2.intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/hq2.intech.studio.ico",
     "slug": "hq-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 386,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "time": 558,
+    "timeDay": 421,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
+    "dailyMinutesDown": {
+      "2025-07-04": 0
+    }
   },
   {
     "name": "Documentation",
