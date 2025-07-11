@@ -4,19 +4,19 @@
     "url": "https://intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 438,
-    "timeWeek": 664,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 670,
+    "timeDay": 532,
+    "timeWeek": 671,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 29
     }
   },
   {
