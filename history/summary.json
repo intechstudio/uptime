@@ -4,18 +4,20 @@
     "url": "https://intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 469,
-    "timeWeek": 701,
-    "timeMonth": 685,
-    "timeYear": 685,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 438,
+    "timeWeek": 664,
+    "timeMonth": 666,
+    "timeYear": 666,
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Vendure",
