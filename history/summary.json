@@ -24,18 +24,20 @@
     "url": "https://vendure.intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/vendure.intech.studio.ico",
     "slug": "vendure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 557,
+    "timeDay": 580,
     "timeWeek": 599,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   },
   {
     "name": "HQ-API",
@@ -43,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hq2.intech.studio.ico",
     "slug": "hq-api",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 602,
     "timeDay": 574,
     "timeWeek": 555,
