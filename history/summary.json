@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 739,
-    "timeDay": 1388,
-    "timeWeek": 802,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "time": 734,
+    "timeDay": 547,
+    "timeWeek": 795,
+    "timeMonth": 734,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-07-11": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 590,
-    "timeDay": 523,
-    "timeWeek": 578,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "time": 589,
+    "timeDay": 521,
+    "timeWeek": 582,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2025-07-29": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 602,
-    "timeDay": 574,
-    "timeWeek": 555,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 599,
+    "timeDay": 492,
+    "timeWeek": 547,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-07-04": 90
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 121,
-    "timeWeek": 182,
-    "timeMonth": 217,
+    "timeDay": 227,
+    "timeWeek": 170,
+    "timeMonth": 213,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oracle.intech.studio.ico",
     "slug": "oracle",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "97.45%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 567,
-    "timeDay": 480,
-    "timeWeek": 554,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 566,
+    "timeDay": 441,
+    "timeWeek": 547,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2025-07-29": 37,
       "2025-07-12": 29
