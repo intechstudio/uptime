@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 730,
-    "timeDay": 517,
-    "timeWeek": 632,
-    "timeMonth": 758,
-    "timeYear": 730,
+    "time": 731,
+    "timeDay": 784,
+    "timeWeek": 666,
+    "timeMonth": 754,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2025-07-11": 29
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 585,
-    "timeDay": 471,
-    "timeWeek": 615,
-    "timeMonth": 580,
+    "timeDay": 567,
+    "timeWeek": 606,
+    "timeMonth": 576,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2025-07-29": 18
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 651,
-    "timeDay": 476,
-    "timeWeek": 522,
-    "timeMonth": 692,
-    "timeYear": 651,
+    "time": 649,
+    "timeDay": 528,
+    "timeWeek": 537,
+    "timeMonth": 696,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-07-04": 90
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 250,
-    "timeWeek": 245,
-    "timeMonth": 203,
+    "timeDay": 232,
+    "timeWeek": 254,
+    "timeMonth": 209,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -84,14 +84,14 @@
     "slug": "oracle",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "77.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.73%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.51%",
     "time": 576,
-    "timeDay": 654,
-    "timeWeek": 561,
-    "timeMonth": 575,
+    "timeDay": 550,
+    "timeWeek": 578,
+    "timeMonth": 578,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-08-24": 329,
