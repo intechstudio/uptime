@@ -6,9 +6,9 @@
     "slug": "intech-studio-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 747,
     "timeDay": 699,
@@ -16,7 +16,6 @@
     "timeMonth": 820,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-10-19": 9,
       "2025-10-14": 17,
       "2025-07-11": 29
     }
