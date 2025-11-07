@@ -1,7 +1,7 @@
 url: https://vendure.intech.studio/health
-status: down
-code: 503
-responseTime: 861
-lastUpdated: 2025-11-07T11:45:04.663Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2025-11-07T11:51:36.695Z
 startTime: 2025-06-30T13:20:54.040Z
 generator: Upptime <https://github.com/upptime/upptime>
