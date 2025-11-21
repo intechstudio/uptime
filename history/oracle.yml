@@ -1,7 +1,7 @@
 url: https://oracle.intech.studio/healthz
-status: down
-code: 503
-responseTime: 570
-lastUpdated: 2025-11-20T23:03:12.824Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2025-11-21T09:18:54.353Z
 startTime: 2025-06-30T13:17:14.969Z
 generator: Upptime <https://github.com/upptime/upptime>
