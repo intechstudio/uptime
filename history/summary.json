@@ -12,7 +12,7 @@
     "uptimeYear": "99.82%",
     "time": 730,
     "timeDay": 466,
-    "timeWeek": 706,
+    "timeWeek": 686,
     "timeMonth": 682,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -90,18 +90,20 @@
     "url": "https://grid-documentation.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/grid-documentation.onrender.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 183,
-    "timeWeek": 211,
-    "timeMonth": 223,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
+    "timeDay": 124,
+    "timeWeek": 193,
+    "timeMonth": 219,
+    "timeYear": 226,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Oracle",
