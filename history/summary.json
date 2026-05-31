@@ -4,16 +4,16 @@
     "url": "https://intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/intech.studio.ico",
     "slug": "intech-studio-website",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.78%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.76%",
     "time": 716,
-    "timeDay": 474,
-    "timeWeek": 724,
-    "timeMonth": 680,
+    "timeDay": 498,
+    "timeWeek": 704,
+    "timeMonth": 676,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-07-11": 29,
@@ -30,7 +30,7 @@
       "2026-04-19": 66,
       "2026-05-03": 22,
       "2026-05-08": 36,
-      "2026-05-31": 0
+      "2026-05-31": 69
     }
   },
   {
@@ -38,16 +38,16 @@
     "url": "https://vendure.intech.studio/health",
     "icon": "https://icons.duckduckgo.com/ip3/vendure.intech.studio.ico",
     "slug": "vendure",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.44%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.42%",
     "time": 811,
-    "timeDay": 471,
-    "timeWeek": 693,
-    "timeMonth": 654,
+    "timeDay": 487,
+    "timeWeek": 674,
+    "timeMonth": 651,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-07-29": 18,
@@ -78,7 +78,7 @@
       "2026-04-19": 66,
       "2026-05-03": 22,
       "2026-05-08": 36,
-      "2026-05-31": 0
+      "2026-05-31": 69
     }
   },
   {
