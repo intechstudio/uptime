@@ -128,16 +128,16 @@
     "url": "https://oracle.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/oracle.intech.studio.ico",
     "slug": "oracle",
-    "status": "down",
-    "uptime": "95.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "95.76%",
+    "status": "up",
+    "uptime": "95.75%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "95.75%",
     "time": 634,
-    "timeDay": 536,
-    "timeWeek": 625,
-    "timeMonth": 626,
+    "timeDay": 583,
+    "timeWeek": 631,
+    "timeMonth": 628,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-07-12": 29,
@@ -174,7 +174,7 @@
       "2026-04-27": 25,
       "2026-05-10": 231,
       "2026-05-23": 341,
-      "2026-06-06": 0
+      "2026-06-06": 56
     }
   }
 ]
