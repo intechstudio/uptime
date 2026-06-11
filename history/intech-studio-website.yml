@@ -1,7 +1,7 @@
 url: https://intech.studio/health
-status: up
-code: 200
-responseTime: 32234
-lastUpdated: 2026-06-11T22:53:20.087Z
+status: down
+code: 503
+responseTime: 470
+lastUpdated: 2026-06-11T23:25:39.993Z
 startTime: 2025-06-30T13:17:11.198Z
 generator: Upptime <https://github.com/upptime/upptime>
