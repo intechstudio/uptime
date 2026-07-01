@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vendure.intech.studio.ico",
     "slug": "vendure",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.22%",
@@ -132,16 +132,16 @@
     "url": "https://oracle.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/oracle.intech.studio.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "96.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "95.99%",
     "time": 630,
-    "timeDay": 763,
-    "timeWeek": 610,
-    "timeMonth": 583,
+    "timeDay": 727,
+    "timeWeek": 620,
+    "timeMonth": 586,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2025-07-12": 29,
@@ -179,7 +179,8 @@
       "2026-05-10": 231,
       "2026-05-23": 341,
       "2026-06-06": 56,
-      "2026-06-18": 194
+      "2026-06-18": 194,
+      "2026-07-01": 0
     }
   }
 ]
