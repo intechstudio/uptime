@@ -112,10 +112,10 @@
     "slug": "documentation",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "12.64%",
-    "uptimeWeek": "87.52%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "99.75%",
+    "uptimeDay": "4.47%",
+    "uptimeWeek": "86.35%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.73%",
     "time": 230,
     "timeDay": 79,
     "timeWeek": 200,
@@ -123,7 +123,7 @@
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-12-05": 30,
-      "2026-07-14": 740,
+      "2026-07-14": 857,
       "2026-07-13": 518
     }
   },
@@ -132,17 +132,17 @@
     "url": "https://oracle.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/oracle.intech.studio.ico",
     "slug": "oracle",
-    "status": "down",
-    "uptime": "96.13%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "95.99%",
-    "time": 631,
-    "timeDay": 652,
-    "timeWeek": 635,
-    "timeMonth": 615,
-    "timeYear": 634,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "95.97%",
+    "time": 632,
+    "timeDay": 681,
+    "timeWeek": 646,
+    "timeMonth": 618,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-07-29": 37,
       "2025-08-24": 329,
@@ -180,7 +180,7 @@
       "2026-06-06": 56,
       "2026-06-18": 194,
       "2026-07-01": 52,
-      "2026-07-14": 0
+      "2026-07-14": 118
     }
   }
 ]
