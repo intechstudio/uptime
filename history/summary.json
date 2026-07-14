@@ -111,11 +111,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grid-documentation.onrender.com.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.92%",
+    "uptimeDay": "12.64%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "99.75%",
     "time": 230,
     "timeDay": 79,
     "timeWeek": 200,
@@ -123,7 +123,7 @@
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-12-05": 30,
-      "2026-07-14": 84,
+      "2026-07-14": 740,
       "2026-07-13": 518
     }
   },
@@ -132,17 +132,17 @@
     "url": "https://oracle.intech.studio/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/oracle.intech.studio.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "95.99%",
-    "time": 632,
-    "timeDay": 851,
-    "timeWeek": 661,
-    "timeMonth": 620,
-    "timeYear": 635,
+    "time": 631,
+    "timeDay": 652,
+    "timeWeek": 635,
+    "timeMonth": 615,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2025-07-29": 37,
       "2025-08-24": 329,
@@ -179,7 +179,8 @@
       "2026-05-23": 341,
       "2026-06-06": 56,
       "2026-06-18": 194,
-      "2026-07-01": 52
+      "2026-07-01": 52,
+      "2026-07-14": 0
     }
   }
 ]
