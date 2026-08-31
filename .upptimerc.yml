@@ -13,7 +13,7 @@ sites:
     url: https://hq2.intech.studio/health
     method: GET
   - name: Documentation
-    url: https://grid-documentation.onrender.com/
+    url: https://docs.intech.studio/
   - name: Oracle
     url: https://oracle.intech.studio/healthz
 
