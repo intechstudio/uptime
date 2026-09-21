@@ -109,7 +109,7 @@
     "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.20%",
+    "uptimeMonth": "65.29%",
     "uptimeYear": "86.57%",
     "time": 223,
     "timeDay": 179,
@@ -177,10 +177,10 @@
     "slug": "oracle",
     "status": "down",
     "uptime": "96.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "95.74%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "95.73%",
     "time": 640,
     "timeDay": 771,
     "timeWeek": 644,
@@ -227,7 +227,7 @@
       "2026-08-12": 505,
       "2026-08-25": 57,
       "2026-09-08": 208,
-      "2026-09-21": 0
+      "2026-09-21": 42
     }
   },
   {
